@@ -13,7 +13,6 @@ requirements = [
     'numpy',
     'pillow',
     'six',
-    'torch',
 ]
 
 setup(
